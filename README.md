@@ -34,7 +34,7 @@ TwoHundredOK is a modern web application boilerplate built with **Laravel 12** a
 1.  **Clone the repository**
 
     ```bash
-    git clone https://github.com/yourusername/TwoHundredOK.git
+    git clone https://github.com/Mohamed-abdelfadel/TwoHundredOK.git
     cd TwoHundredOK
     ```
 
