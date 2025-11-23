@@ -25,8 +25,7 @@ createInertiaApp({
     },
     setup({ el, App, props, plugin }) {
         const vueApp = createApp({
-            // render: () =>
-            //     h(AppLayoutWrapper, {}, { default: () => h(App, props) }),
+            render: () => h(App, props),
         });
 
         vueApp.use(plugin);
