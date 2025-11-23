@@ -1,4 +1,4 @@
-# TwoHundredOK
+# 200 OK
 
 TwoHundredOK is a modern web application boilerplate built with **Laravel 12** and **Vue 3**, designed to provide a robust foundation for your next project. It features a seamless Single Page Application (SPA) experience powered by **Inertia.js**, styled with **TailwindCSS 4** and **DaisyUI 5**.
 
